@@ -18,10 +18,15 @@ This design pattern provides a way to create objects while hiding the creation l
 
 
 
+
+
 #### B. Structural Patterns
 
 
+
 These design patterns concern class and object composition. Concept of inheritance is used to compose interfaces and define ways to compose objects to obtain new functionalities.
+
+
 
 
 #### 06. Adapter Pattern
@@ -35,10 +40,18 @@ These design patterns concern class and object composition. Concept of inheritan
 
 
 
+
+
+
 #### C. Behavioral Patterns
 
 
+
+
+
 These design patterns are specifically concerned with communication between objects.
+
+
 
 #### 14. Chain of Responsibility Pattern
 #### 15. Command Pattern
@@ -55,13 +68,20 @@ These design patterns are specifically concerned with communication between obje
 
 
 
+
 #### D. J2EE Patterns
+
+
 
 
 These design patterns are specifically concerned with the presentation tier. These patterns are identified by Sun Java Center.
 
 
+
+
 #### E. Miscellaneous Patterns(Mostly Behavioural)
+
+
 
 
 #### 26. Composite Entity Pattern
@@ -76,5 +96,9 @@ These design patterns are specifically concerned with the presentation tier. The
 #### 35. Model-View-View-Model Pattern
 
 
+
+
 #### Reference: https://www.tutorialspoint.com/design_pattern/
+
+
 
