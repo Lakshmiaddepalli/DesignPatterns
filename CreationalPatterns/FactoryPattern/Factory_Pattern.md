@@ -3,9 +3,6 @@
 
 we create object without exposing the creation logic to client and the client use the same common interface to create new type of object.
 
-
-
-
 #### Advantages
 
 #### 1. Decoupling (Or Loose Coupling)
@@ -31,4 +28,4 @@ This totally decoupled the selection of type for object creation from Client. Th
 
 1. https://www.geeksforgeeks.org/design-patterns-set-2-factory-method/
 2. https://www.tutorialspoint.com/design_pattern/factory_pattern.htm
-
+3. https://www.quora.com/What-are-the-pros-and-cons-of-the-factory-design-pattern
