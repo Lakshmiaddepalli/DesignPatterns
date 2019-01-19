@@ -64,14 +64,14 @@ These design patterns are specifically concerned with the presentation tier. The
 #### E. Miscellaneous Patterns(Mostly Behavioural)
 
 
-#### 22. Null Object Pattern
-#### 23. Model-View-Controller Pattern
 #### 26. Composite Entity Pattern
 #### 27. Data Access Object Pattern
 #### 28. Front Controller Pattern
 #### 29. Intercepting Filter Pattern
 #### 30. Service Locator Pattern
 #### 31. Transfer Object Pattern
+#### 32. Null Object Pattern
+#### 33. Model-View-Controller Pattern
 
 
 
