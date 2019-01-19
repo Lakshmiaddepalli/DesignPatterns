@@ -16,6 +16,6 @@ Hence,the idea is to use a static member-function (static factory method) in the
 
 This totally decoupled the selection of type for object creation from Client. The library is now responsible to decide which object type to create based on an input. Client just needs to make call to library’s factory Create method and pass the type it wants without worrying about the actual implementation of creation of objects. Hence we no need to recompile the client side.
 
-Example: 
+#### Example: 
 
 ![alt text](https://github.com/Lakshmiaddepalli/DesignPatterns/blob/master/CreationalPatterns/FactoryPattern/Factory_Pattern.png) 
