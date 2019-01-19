@@ -73,7 +73,7 @@ These design patterns are specifically concerned with the presentation tier. The
 #### 32. Null Object Pattern
 #### 33. Model-View-Controller Pattern
 #### 34. Dependency Injection Pattern
-
+#### 35. Model-View-View-Model Pattern
 
 
 #### Reference: https://www.tutorialspoint.com/design_pattern/
