@@ -1,5 +1,5 @@
 
-#### Factory Pattern
+#### 01. Factory Pattern
 
 we create object without exposing the creation logic to client and the client use the same common interface to create new type of object.
 
